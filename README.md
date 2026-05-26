@@ -17,8 +17,8 @@ I'm Sukhdeep Singh
 - My Goal is to become a succesful Gen AI Developer🧑‍💻
 
 ## 📂 Projects
-- 🪨✂️📄 [Stone-Paper-Scissors Game](https://github.com/sukhdeep664/Stone-Paper-Scissors)
-- 🧮 [Python Calculator](https://github.com/sukhdeep664/Python-Calculator)
+- 🪨✂️📄 [Stone-Paper-Scissors Game](https://github.com/sukhdeep664/Stone-Paper-Scissors-python.git)
+- 🧮 [Python Calculator](https://github.com/sukhdeep664/Python-Calculator.git)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sukhdeep-singh)  
