@@ -11,7 +11,7 @@ I'm Sukhdeep Singh
 - 📚 Exploring **AI tools** like Copilot, Claude, and Gemini
 
 ## 🛠 Skills
-- Programming: Python,C++,Html,Css,Numpy,OOPS With Cpp
+- Programming: Python,C++ with OOPS,Html,Css,Numpy
 - Cloud: Google Cloud basics (VM setup, networking)
 - Languages: Intermediate Spanish 🇪🇸,English,Hindi,Punjabi
 - My Goal is to become a succesful Gen AI Developer🧑‍💻
