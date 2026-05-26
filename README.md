@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**sukhdeep664/sukhdeep664** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Sukhdeep Singh
 
-Here are some ideas to get you started:
+🎓 BCA Student | 💻 Python Learner | 🤖 Aspiring GenAI Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning **Python, C++ and Cloud Basics**
+- 🎮 Love experimenting with **Minecraft & GTA V mods**
+- 🎨 Interested in **Digital Art & Video Editing**
+- 📚 Exploring **AI tools** like Copilot, Claude, and Gemini
+
+## 🛠 Skills
+- Programming: Python,C++,Html,Css,Numpy,OOPS With Cpp
+- Cloud: Google Cloud basics (VM setup, networking)
+- Languages: Intermediate Spanish 🇪🇸,English,Hindi,Punjabi
+- My Goal is to become a succesful Gen AI Developer🧑‍💻
+
+## 📂 Projects
+- 🪨✂️📄 [Stone-Paper-Scissors Game](https://github.com/sukhdeep664/Stone-Paper-Scissors)
+- 🧮 [Python Calculator](https://github.com/sukhdeep664/Python-Calculator)
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sukhdeep-singh)  
+- [GitHub](https://github.com/sukhdeep664)
