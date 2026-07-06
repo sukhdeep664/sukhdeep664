@@ -17,6 +17,7 @@ I'm Sukhdeep Singh
 - My Goal is to become a succesful Gen AI Developer🧑‍💻
 
 ## 📂 Projects
+- [Bank Management System](https://github.com/sukhdeep664/Bank-Management-System-Project.git)
 - 🪨✂️📄 [Stone-Paper-Scissors Game](https://github.com/sukhdeep664/Stone-Paper-Scissors-python.git)
 - 🧮 [Python Calculator](https://github.com/sukhdeep664/Python-Calculator.git)
 
