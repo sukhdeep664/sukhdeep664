@@ -17,9 +17,9 @@ I'm Sukhdeep Singh
 - My Goal is to become a succesful Gen AI Developer🧑‍💻
 
 ## 📂 Projects
--[Netflix-Data-Anaylzer-Engine](https://github.com/sukhdeep664/Netflix-vectorized-analytics-engine.git)
+- [Netflix-Data-Anaylzer-Engine](https://github.com/sukhdeep664/Netflix-vectorized-analytics-engine.git) 
 - [Bank Management System](https://github.com/sukhdeep664/Bank-Management-System-Project.git)
-- 🪨✂️📄 [Stone-Paper-Scissors Game](https://github.com/sukhdeep664/Stone-Paper-Scissors-python.git)
+- [Stone-Paper-Scissors Game](https://github.com/sukhdeep664/Stone-Paper-Scissors-python.git)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/sukhdeep-singh)  
